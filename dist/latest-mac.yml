@@ -1,0 +1,11 @@
+version: 1.0.0
+files:
+  - url: Methodology-Section-Generator-1.0.0-arm64-mac.zip
+    sha512: Mj/ZOfzh93qsZnSSHIHH4Eh2gi5uJCjxLC+qi+VJQJJrbZgKJgNjk0mMifO4Gi390VgaTXz21tSMNuGzRnf+mw==
+    size: 132845853
+  - url: Methodology-Section-Generator-1.0.0-arm64.dmg
+    sha512: hqtnPFLBKE8/ng480tLsAJh8RKPSZqpp7HEuz/0+4/L6UDYHnWXmQ8XZLgVQ2SZnKdWoAPmp/tDTiXTXM0t8MA==
+    size: 139541578
+path: Methodology-Section-Generator-1.0.0-arm64-mac.zip
+sha512: Mj/ZOfzh93qsZnSSHIHH4Eh2gi5uJCjxLC+qi+VJQJJrbZgKJgNjk0mMifO4Gi390VgaTXz21tSMNuGzRnf+mw==
+releaseDate: '2025-05-09T12:25:25.211Z'
